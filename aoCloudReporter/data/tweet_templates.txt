@@ -1,0 +1,13 @@
+0,'Injured Person/Medical Assistance Required'
+1,'Trapped Person/People'
+2,'Flooding/Water Leak'
+3,'Chemical/Gas Hazard'
+4,'Electrical Hazard'
+5,'Unstable Buildings'
+6,'Other Hazards'
+7,'Food/Water/Supplies Distribution'
+8,'Criminal Activity'
+9,'Temporary Shelters'
+10,'Justin Bieber is lovely'
+10,'God'!
+10,'I blame Spongebob!'
